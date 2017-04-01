@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"name_type"
+			],
+			[
+				"advdata",
+				"advdata_response"
+			],
+			[
+				"ble_adv",
+				"ble_advdata_t"
+			],
+			[
+				"sh",
+				"short_name_len"
+			],
+			[
+				"BLE",
+				"BLE_ADVDATA_SHORT_NAME"
+			],
+			[
+				"na",
+				"name_type"
+			],
+			[
+				"man",
+				"manuf_data_response"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"ble_a",
+				"ble_advdata"
+			],
+			[
+				"BLE_GAP_A",
+				"BLE_GAP_ADV_TYPE_ADV_IND"
+			],
+			[
+				"err",
+				"err_code"
+			],
+			[
+				"p",
+				"p_data"
+			],
+			[
+				"manu",
+				"manuf_data"
+			],
+			[
+				"ui",
+				"uint8_t"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fanwe/Desktop/1490693178795.txt",
+		"/C/Users/fanwe/Desktop/1490691832511.txt",
+		"/D/Bluetooth/SDK/nRF5_SDK_11.0.0_89a8197/examples/ble_peripheral/nrf5-ble-tutorial-advertising-1/main.c",
+		"/F/software/shadowsocks/statistics-config.json",
+		"/F/software/shadowsocks/gui-config.json",
+		"/D/Bluetooth/AndroidCode/app/src/main/java/code/source/es/newbluetooth/Activity/MeasureActivity.java",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon_copy/pca20006/ble_app_beacon_bcs/main.c",
+		"/D/Bluetooth/SDK/nRF5_SDK_12.2.0_f012efa/examples/ble_peripheral/ble_app_beacon - 1/main.c",
+		"/D/Bluetooth/SDK/nRF5_SDK_12.2.0_f012efa/components/ble/common/ble_advdata.c",
+		"/D/Bluetooth/SDK/nRF5_SDK_12.2.0_f012efa/nRF5x_MDK_8_11_1_Keil4.msi",
+		"/D/Bluetooth/nRF51822EK_TM第三版本资料201606/五、NORDIC官方SDK和协议栈/nRF5_SDK_11.0.0_89a8197/examples/ble_peripheral/ble_app_uart/main.c",
+		"/D/Bluetooth/nRF51822EK_TM第三版本资料201606/五、NORDIC官方SDK和协议栈/nRF5_SDK_11.0.0_89a8197/examples/ble_peripheral/ble_app_uart - 1/main.c",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Include/s110/ble_gap.h",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon_copy/pca20006/common/pstorage_mod.c",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/main.c",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Source/app_common/app_scheduler.c",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/arm/Code/Nordic/nrf51822/Source/app_common/app_scheduler.c”",
+		"/D/Bluetooth/Source",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/arm/Code/Nordic/nrf51822/Source/app_common/app_scheduler.c",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/arm/”D",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/arm/Code/Nordic/nrf51822/Source/app_common/app_scheduler.c“",
+		"/C/Users/fanwe/Desktop/kalman.matlab",
+		"/C/Users/fanwe/Desktop/ios计步.m",
+		"/D/Bluetooth/Source Code/Nordic/nrf51822/Board/nrf51_beacon/pca20006/ble_app_beacon_bcs/arm/“D",
+		"/D/AndroidProject/SensorTest/app/src/main/java/com/example/fanwe/sensortest/MainActivity.java",
+		"/G/迅雷下载/DiRT.3.CHS.HD-Gamersky/DiRT.3.CHS.HD-Gamersky/DiRT.3.CHS.HD-Gamersky/DiRT 3/tracks/locations/monaco/monaco/basewind2.xml",
+		"/C/Users/fanwe/Desktop/test.java",
+		"/F/software/百度干净云2.0/AppProperty.xml",
+		"/C/Users/fanwe/Desktop/test.c",
+		"/D/Bluetooth/从机/examples/ble_peripheral/ble_app_hrs/main.c",
+		"/C/Users/fanwe/Desktop/test"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cort",
+			"ble_advertising_init",
+			"               ",
+			"DEVICE_NAME",
+			"gap",
+			"DEVICE_NAME",
+			"advertising",
+			"ad",
+			"advertising",
+			"main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "IMU_AHRS.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

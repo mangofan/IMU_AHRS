@@ -1,0 +1,32 @@
+
+T0778 000:591 SEGGER J-Link V4.80g Log File (0000ms, 0283ms total)
+T0778 000:591 DLL Compiled: Feb 13 2014 20:50:02 (0000ms, 0283ms total)
+T0778 000:591 Logging started @ 2015-06-23 19:52 (0000ms, 0283ms total)
+T0778 000:591 JLINK_SetWarnOutHandler(...) (0000ms, 0283ms total)
+T0778 000:591 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N: 87878787
+Feature(s): RDI, FlashBP, FlashDL, JFlash, GDBFull  returns O.K. (0265ms, 0548ms total)
+T0778 000:856 JLINK_SetErrorOutHandler(...) (0000ms, 0548ms total)
+T0778 000:856 JLINK_ExecCommand("ProjectFile = "G:\16AHRS\µê¼Ò4.IMU_AHRS\4.IMU_AHRS\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0549ms total)
+T0778 000:857 JLINK_ExecCommand("Device = STM32F103T8", ...)Device "STM32F103T8" selected (64 KB flash, 20 KB RAM).  returns 0x00 (0001ms, 0550ms total)
+T0778 000:858 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetDLLVersion()  returns 48007 (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetFirmwareString(...) (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetDLLVersion()  returns 48007 (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetCompileDateTime() (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetFirmwareString(...) (0000ms, 0550ms total)
+T0778 000:858 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0550ms total)
+T0778 000:858 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0003ms, 0553ms total)
+T0778 000:861 JLINK_SetSpeed(100) (0001ms, 0554ms total)
+T0778 000:863 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 0554ms total)
+T0778 000:863 JLINK_Reset()
+  ***** Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.STM32F1xxx: Can not attach to CPU. Trying connect under reset.RESET (pin 15) high, but should be low. Please check target hardware.JLINK_GetId()  returns 0x00000000 (0000ms, 0858ms total)
+T0778 001:167 JLINK_GetId()  returns 0x00000000 (0001ms, 0859ms total)
+T0778 001:175 JLINK_GetFirmwareString(...) (0000ms, 0859ms total)
+T0778 004:416 JLINK_Close() (0001ms, 0860ms total)
+T0778 004:416  (0001ms, 0860ms total)
+T0778 004:416 Closed (0001ms, 0860ms total)
